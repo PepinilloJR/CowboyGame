@@ -1,24 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\",
+  "WorkspaceRootPath": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\proyectos en .net\\extra-cosasmiasutiles\\juegito\\juegoonlinebasico\\networkserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\vaqueros\\juegoonlinebasico\\networkserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|solutionrelative:networkserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\proyectos en .net\\extra-cosasmiasutiles\\juegito\\juegoonlinebasico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\vaqueros\\juegoonlinebasico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\proyectos en .net\\extra-cosasmiasutiles\\juegito\\juegoonlinebasico\\networkcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\vaqueros\\juegoonlinebasico\\networkcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|solutionrelative:networkcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\proyectos en .net\\extra-cosasmiasutiles\\juegito\\juegoonlinebasico\\metodosauxiliares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|c:\\users\\pepin\\onedrive\\escritorio\\vaqueros\\juegoonlinebasico\\metodosauxiliares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E619A876-6E54-4D00-B238-8A227856E674}|juegoOnlineBasico.csproj|solutionrelative:metodosauxiliares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\Program.cs",
+              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAgwEYAAAAXAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T14:20:52.407Z",
               "IsPinned": true,
@@ -49,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NetworkServer.cs",
-              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\NetworkServer.cs",
+              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\NetworkServer.cs",
               "RelativeDocumentMoniker": "NetworkServer.cs",
-              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\NetworkServer.cs",
+              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\NetworkServer.cs",
               "RelativeToolTip": "NetworkServer.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAIwG8AAAARAAAA",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwG8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T18:21:15.353Z",
               "IsPinned": true,
@@ -63,9 +63,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "NetworkCliente.cs",
-              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\NetworkCliente.cs",
+              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\NetworkCliente.cs",
               "RelativeDocumentMoniker": "NetworkCliente.cs",
-              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\NetworkCliente.cs",
+              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\NetworkCliente.cs",
               "RelativeToolTip": "NetworkCliente.cs",
               "ViewState": "AQIAAGcAAAAAAAAAAAAowHgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "DocumentIndex": 2,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAGsUAAAAAAAAAAAqwIUUAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-08-05T18:24:02.657Z"
@@ -88,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MetodosAuxiliares.cs",
-              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\MetodosAuxiliares.cs",
+              "DocumentMoniker": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\MetodosAuxiliares.cs",
               "RelativeDocumentMoniker": "MetodosAuxiliares.cs",
-              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\MetodosAuxiliares.cs",
+              "ToolTip": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\MetodosAuxiliares.cs",
               "RelativeToolTip": "MetodosAuxiliares.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwCkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

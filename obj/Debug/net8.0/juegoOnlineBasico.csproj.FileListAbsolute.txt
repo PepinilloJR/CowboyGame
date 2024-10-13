@@ -28,3 +28,18 @@ C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\Juegi
 C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\Juegito\juegoOnlineBasico\bin\Debug\net8.0\juegoOnlineBasico.pdb
 C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\Juegito\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.genruntimeconfig.cache
 C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\Juegito\juegoOnlineBasico\obj\Debug\net8.0\ref\juegoOnlineBasico.dll
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\bin\Debug\net8.0\juegoOnlineBasico.exe
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\bin\Debug\net8.0\juegoOnlineBasico.deps.json
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\bin\Debug\net8.0\juegoOnlineBasico.runtimeconfig.json
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\bin\Debug\net8.0\juegoOnlineBasico.dll
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\bin\Debug\net8.0\juegoOnlineBasico.pdb
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.AssemblyInfoInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.AssemblyInfo.cs
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.csproj.CoreCompileInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.sourcelink.json
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.dll
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\refint\juegoOnlineBasico.dll
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.pdb
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\juegoOnlineBasico.genruntimeconfig.cache
+C:\Users\pepin\OneDrive\Escritorio\vaqueros\juegoOnlineBasico\obj\Debug\net8.0\ref\juegoOnlineBasico.dll

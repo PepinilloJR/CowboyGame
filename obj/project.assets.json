@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\juegoOnlineBasico.csproj",
+      "projectUniqueName": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\juegoOnlineBasico.csproj",
       "projectName": "juegoOnlineBasico",
-      "projectPath": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\juegoOnlineBasico.csproj",
+      "projectPath": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\juegoOnlineBasico.csproj",
       "packagesPath": "C:\\Users\\pepin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pepin\\OneDrive\\Escritorio\\proyectos en .NET\\extra-cosasMiasUtiles\\Juegito\\juegoOnlineBasico\\obj\\",
+      "outputPath": "C:\\Users\\pepin\\OneDrive\\Escritorio\\vaqueros\\juegoOnlineBasico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
